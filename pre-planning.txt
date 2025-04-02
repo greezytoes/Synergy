@@ -1,0 +1,24 @@
+*Take notes of our discussion and put in notes.md that will have to be created in the root. Those notes and this discussion will be used to make a development roadmap that we'll go by to create the project.
+
+*lets discuss to implement a project as described below. 
+
+1. Agentic framework=autogen0.4.9
+2. Application=software development framework capable of producing apps 20,000 lines of code to 1,000,000 lines of code.
+3. Will be know for developing worlds best UI/UX designs.
+4. agents and/or teams follow todays software engineering development and design priciples.
+-Possibilities:
+***should be unique in design and functionality
+A. I was thinking maybe start with some type of dashboard with a glass surfaced, sleek, futuristic robot, maybe neomorphic design elements. on the right side of the screen facing towards the left side of the screen. It should only take up a small amount of width of the screen but should atleast be half the height of the screen. I saw a 3d one with subtle movements, like his head would follow the pointer, arms would shift and adjust position. I could probably aquire the code for that.
+B. This avatar Id like to call him Daedalus, he's more or less  like the architect that takes the users request, and maybe creates the agents and  assembles them into a team, making it  custom built for the users request or he assigns pre-built teams / team,  specializing in feilds related to the users request. He then notifies the user when the task is complete.
+C. I want to discuss with you the best make-up for a team. I also want to talk about what message style would be best, group chat, synchronous, etc.  I know I want to have some type of review agent that performs checks or quality control. I suppose we'll also need a team or chat manager, and we can work those out if we go that route.
+D. The UI/UX design is handled by a team specializing in the field, and that's all. I believe, because of human nature, eventhough it's not logical, we tend to hold UI/UX above functionality.  Also, most ai created application creating apps produce UI/UX that do not follow todays design principles.
+E. The UI/UX team will be prompted to only create stunning, awe-inspiring and breath-taking designs.  They should know that a design deamed as 'good" or even 'great' will be rejected.  Only the very best will make it through to the user.  Possibly give the user a choice of the top 3?
+F.  I'd like to employ several methods that visualize the development process. we can talk about this. we probably should have the agents thoughts and messages to the other agents and to the architect visible, using AgentOps maybe.  Id like to display them in a way that goes along with the glass robot avatar.
+G. Once all tasks are completed there should probably be a testing team that tests the project thoroughly. any failing projects should get sent back to the team responsible with instructions on why it failed and how to correct it.
+H. After the Testing team passes and the UI/UX team passes, the Architect , whos been monitoring the messages and thoughts, ensures that the project aligns with the users original request, rejects those that do not, including instructions on how to correct it. He then gathers all the files, puts them in a zip or rar file and presents it to the user.
+I. There should probably be positions on teams that are required positions in all teams. Positions such as quality agent, localized testing agent, Documentation agent, etc...
+J. By the time an application makes it back to the user it's going to be, without a doubt, a stunning application that is 100% functional and exactly what the user asked for.
+
+Additional thoughts:
+1. should we use a unified memory system? should the memory persist from session to session? Should the memory be specific to a users login and persist through sessions?
+2. whats best for memory? I'm willing to discuss options but leaning towards vectordb

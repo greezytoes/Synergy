@@ -154,8 +154,7 @@ sine_wave.png
 *.log
 
 # Notes and reference files
-notes.md
-autogenref.md
+
 
 # Sensitive Files
 *.env
